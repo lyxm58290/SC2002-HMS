@@ -1,4 +1,4 @@
-# SC2002-HMS-
+# SC2002-HMS
 
 ## About
 The Hospital Management System (HMS) is part of the SC2002 (Object Orientated Programming) project, 
