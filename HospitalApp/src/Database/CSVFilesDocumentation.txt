@@ -1,0 +1,75 @@
+DR_DB.csv
+
+================================================
+LOGIN_DB.csv
+- users that are allowed: Administrator
+
+PW:
+always set to password when a new user is created
+when Administrator adds a new user, must update respective DB correctly
+
+================================================
+PATIENT_DB.csv
+
+DR_ID:
+always set to NULL when first added
+only changed when user makes/cancel an appointment
+
+================================================
+STAFF_DB.csv
+
+================================================
+USERID.csv
+- users that are allowed: Administrator
+- Administrators must remember to update this file when adding new people
+
+================================================
+APPOINTMENTS.csv
+- users that are allowed: Patients, Doctors
+
+CONFIRMATION: 
+possible values: Accept/Decline/Pending(default)/Cancel/Reschedule. 
+only doctors can influence A/D options.
+only patients can influence P/C/R options.
+
+================================================
+DOCTORS_AVAILABILITY.csv
+- users that are allowed: Patients, Doctors
+
+
+================================================
+INVENTORY_DB.csv
+- users that are allowed: Pharmacist, Administrator
+
+REQ: // for Pharmacist to request meds from Administrator
+Pharmacist (can update)
+Administrator (can update)
+
+
+================================================
+OUTCOME.csv
+- users that are allowed: Patient, Doctor, Pharmacist
+
+DATE_TIME:
+Doctor (can update)
+
+PAST_DIAG:
+Patient (can view)
+
+SERVICE:
+Doctor (can update)
+
+MED_NAME:
+Doctor (can update)
+
+MED_STATUS:
+possible values: P/D
+only doctors can influence P(Pending) option
+only Pharmacist can influence D(Dispensed) option
+
+DOSAGE:
+Doctor (can update - integer value)
+
+TREATMENT_PLANS:
+Patient (can view)
+Doctor (can update)

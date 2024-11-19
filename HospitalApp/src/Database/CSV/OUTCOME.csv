@@ -1,0 +1,2 @@
+PatientID,DoctorID,Date,Diagnosis,Service,Medication,Amount,Status,Treatment
+PA001,D001,2024-11-25+1200,FEVER,CONSULTATION,PARACETAMOL,15,Dispensed,BEDREST

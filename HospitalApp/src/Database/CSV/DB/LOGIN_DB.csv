@@ -1,0 +1,8 @@
+ROLE,ID,PW,SALT,NAME
+PATIENT,PA001,PIDruu5ol1jkdZ0yAJV4S6R/e2OzfvF/YCZ4KzJ8eFU=,clFjV7vLuf2QYhzmfIs7Xg==,Alice Brown
+PATIENT,PA002,password,NULL,Bob Stone
+PATIENT,PA003,password,NULL,Charlie White
+DOCTOR,D001,password,NULL,John Smith
+DOCTOR,D002,password,NULL,Emily Clarke
+PHARMACIST,PH001,password,NULL,Mark Lee
+ADMINISTRATOR,A001,password,NULL,Sarah Lee

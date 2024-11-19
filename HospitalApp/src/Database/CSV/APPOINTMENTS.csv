@@ -1,0 +1,3 @@
+Patient_ID,Doctor ID,Date,Time,Status
+PA001,D001,2024-11-25,1200,Completed
+PA001,D001,2024-11-20,1300,Pending
