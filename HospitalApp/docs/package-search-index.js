@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"AdminManager"},{"l":"All Packages","u":"allpackages-index.html"},{"l":"Appointment"},{"l":"DoctorManager"},{"l":"Inventory"},{"l":"LoginPage"},{"l":"Menu"},{"l":"PatientManager"},{"l":"PharmacistManager"},{"l":"Roles"},{"l":"StaffManager"}];updateSearchResults();
