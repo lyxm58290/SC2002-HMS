@@ -16,8 +16,8 @@ In order to meet the needs of various user types, it offers flexibility.
 
 ## Members and contributions
 We are a group 3 from tutorial group SCMA
-* @aanya24 (Aanya):
-* @Jervis02 (Jervis):
-* @lyxm58290 (Maeko):
-* @vionaseet (Viona):
-* @yeokjunn (Ke Jun):
+* @aanya24 (Aanya)
+* @Jervis02 (Jervis)
+* @lyxm58290 (Maeko)
+* @vionaseet (Viona)
+* @yeokjunn (Ke Jun)
