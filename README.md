@@ -1,4 +1,5 @@
 # SC2002-HMS
+<img width="1440" alt="Slide" src="https://github.com/user-attachments/assets/25154222-f59c-4853-beea-cdf86dea359b">
 
 ## About
 The Hospital Management System (HMS) is part of the SC2002 (Object Orientated Programming) project, 
@@ -18,5 +19,5 @@ We are a group 3 from tutorial group SCMA
 * @aanya24(Aanya):
 * @Jervis02:
 * @lyxm58290(Maeko):
-* @vionaseet(Vionna):
+* @vionaseet(Viona):
 * @yeokjunn(Ke Jun):
