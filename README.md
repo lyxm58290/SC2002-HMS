@@ -9,7 +9,7 @@ prioritised in the program's design to facilitate future development and simple 
 In order to meet the needs of various user types, it offers flexibility.
 
 ## What did we learn from this project
-* Teamwork makes the dream work
+* Teamwork makes the dream work! :)
 * How to handle data without databases (Eg. SQL)
 
 ## Links
